@@ -1,16 +1,17 @@
 const axios = require('axios');
 const moment = require('moment');
 const TelegramBot = require('node-telegram-bot-api');
+const config = require("./config.json");
 
 // Telegram bot token and chat ID
-const telegramBotToken = '6147523900:AAH-kTHPzja_sSRmjOsZbxmuh19rpU3qNuA';
-const telegramChatId = '-935340702';
+const telegramBotToken = config.telegramBotToken;
+const telegramChatId = config.telegramChatId;
 
 // URL and payload
 const url = 'https://fp.trafikverket.se/boka/occasion-bundles';
 const payload = {
   bookingSession: {
-    socialSecurityNumber: '19850922-5374',
+    socialSecurityNumber: config.socialSecurityNumber,
     licenceId: 5,
     bookingModeId: 0,
     ignoreDebt: false,
@@ -79,4 +80,4 @@ function makeRequest() {
 makeRequest();
 
 // Schedule the request to be made every half an hour
-setInterval(makeRequest, 1800000); 
+setInterval(makeRequest, config.interval); 
