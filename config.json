@@ -2,5 +2,6 @@
 	"socialSecurityNumber": "<Personal-number>",
 	"telegramChatId": "<Chat-id>",
 	"telegramBotToken": "<Bot-token>",
-	"interval": 1800000
+	"interval": 1800000,
+	"threashorldDateTime": "2023-07-20T00:00:00.000Z"
 }

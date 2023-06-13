@@ -49,7 +49,7 @@ function sendTelegramNotification(message) {
 function processOccasions(occasions) {
     const filteredOccasions = occasions.filter((occasion) => {
         const startDateTime = moment(occasion.duration.start);
-        const notificationDateTime = moment('2023-06-15T12:10:00+02:00');
+        const notificationDateTime = moment(config.threashorldDateTime);
         return startDateTime.isBefore(notificationDateTime);
     });
     
@@ -68,7 +68,7 @@ function makeRequest() {
     .post(url, payload)
     .then((response) => {
       const occasions = response.data.data.bundles.flatMap((bundle) => bundle.occasions);
-      sendTelegramNotification(`Found ${occasions.length} occasions`);
+      console.log(`Found ${occasions.length} occasions`);
       processOccasions(occasions);
     })
     .catch((error) => {
