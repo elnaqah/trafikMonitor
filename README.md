@@ -1,4 +1,5 @@
 # Trafik Monitor
+Monitor the https://www.trafikverket.se for new booking slots available
 * Install node.js 
 * Fill in the config.json
 ```
