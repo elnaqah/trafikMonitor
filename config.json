@@ -1,6 +1,6 @@
 {
-	"socialSecurityNumber": "19850922-5374",
-	"telegramChatId": "-935340702",
-	"telegramBotToken": "6147523900:AAH-kTHPzja_sSRmjOsZbxmuh19rpU3qNuA",
+	"socialSecurityNumber": "<Personal-number>",
+	"telegramChatId": "<Chat-id>",
+	"telegramBotToken": "<Bot-token>",
 	"interval": 1800000
 }
