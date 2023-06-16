@@ -3,5 +3,6 @@
       "telegramChatId": "YOUR_TELEGRAM_CHAT_ID",
       "socialSecurityNumber": "PERSONAL_NUMBER",
       "fromDate": "2023-06-15T12:10:00+02:00",
+      "locationName": "Farsta",
       "url": "https://fp.trafikverket.se/boka/occasion-bundles"
 }
