@@ -1,0 +1,3090 @@
+[
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000137,
+            "name": "Alingsås",
+            "address": {
+                "streetAddress1": "Sveagatan 8K",
+                "streetAddress2": "",
+                "zipCode": "44132",
+                "city": "Alingsås",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.929776,
+                "longitude": 12.540474899999936
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000108,
+            "name": "Arjeplog",
+            "address": {
+                "streetAddress1": "V Skeppsholmen",
+                "streetAddress2": "",
+                "zipCode": "93090",
+                "city": "Arjeplog",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 66.0545565,
+                "longitude": 17.88798989999998
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000109,
+            "name": "Arvidsjaur",
+            "address": {
+                "streetAddress1": "Järnvägsgatan 111",
+                "streetAddress2": "",
+                "zipCode": "93334",
+                "city": "Arvidsjaur",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 65.5816402,
+                "longitude": 19.19006509999997
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000032,
+            "name": "Arvika ",
+            "address": {
+                "streetAddress1": "Strandvägen 2",
+                "streetAddress2": "",
+                "zipCode": "67151",
+                "city": "Arvika",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.6547024,
+                "longitude": 12.582920400000035
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000099,
+            "name": "Avesta",
+            "address": {
+                "streetAddress1": "Axel Johnsons väg 70",
+                "streetAddress2": "",
+                "zipCode": "77434",
+                "city": "Avesta",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 60.14061365758363,
+                "longitude": 16.169735238852446
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000083,
+            "name": "Boden",
+            "address": {
+                "streetAddress1": "Garnisonsgatan 1 ",
+                "streetAddress2": "",
+                "zipCode": "96143",
+                "city": "Boden",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 65.8240867,
+                "longitude": 21.699941099999933
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000121,
+            "name": "Bollnäs",
+            "address": {
+                "streetAddress1": "Collinigatan 12",
+                "streetAddress2": "",
+                "zipCode": "82143",
+                "city": "Bollnäs",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 61.35057109999999,
+                "longitude": 16.39521669999999
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000100,
+            "name": "Borlänge",
+            "address": {
+                "streetAddress1": "Pylonen Rödavägen 1",
+                "streetAddress2": "",
+                "zipCode": "78189",
+                "city": "Borlänge",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 60.48548530000001,
+                "longitude": 15.40747669999996
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000066,
+            "name": "Borås",
+            "address": {
+                "streetAddress1": "Tullkammaregatan 1",
+                "streetAddress2": "",
+                "zipCode": "50430",
+                "city": "Borås",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.7165,
+                "longitude": 12.9276
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000075,
+            "name": "Eksjö",
+            "address": {
+                "streetAddress1": "Nifsarpsvägen 4",
+                "streetAddress2": "",
+                "zipCode": "57596",
+                "city": "Eksjö",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.6371364,
+                "longitude": 14.971379500000012
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000072,
+            "name": "Enköping",
+            "address": {
+                "streetAddress1": "Torggatan 2A",
+                "streetAddress2": "",
+                "zipCode": "74949",
+                "city": "Enköping",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.63097159999999,
+                "longitude": 17.08956809999995
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000005,
+            "name": "Eskilstuna",
+            "address": {
+                "streetAddress1": "Fraktgatan 6, Eskilstuna",
+                "streetAddress2": "",
+                "zipCode": "63346",
+                "city": "Eskilstuna",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.38773578304762,
+                "longitude": 16.495951580130207
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000065,
+            "name": "Eslöv",
+            "address": {
+                "streetAddress1": "Medborgarhuset Kyrkogatan 1",
+                "streetAddress2": "",
+                "zipCode": "24130",
+                "city": "Eslöv",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 55.835,
+                "longitude": 13.301098700000011
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000039,
+            "name": "Fagersta",
+            "address": {
+                "streetAddress1": "Järnvägstorget 3",
+                "streetAddress2": "",
+                "zipCode": "73732",
+                "city": "Fagersta",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 60.0036672,
+                "longitude": 15.799267800000052
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000060,
+            "name": "Falkenberg",
+            "address": {
+                "streetAddress1": "Oktanvägen 5",
+                "streetAddress2": "",
+                "zipCode": "31132",
+                "city": "Falkenberg",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 56.9086284,
+                "longitude": 12.462178999999992
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000070,
+            "name": "Falköping",
+            "address": {
+                "streetAddress1": "Nils Ericsonsgatan 5 ",
+                "streetAddress2": "",
+                "zipCode": "52131",
+                "city": "Falköping",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 58.1782952,
+                "longitude": 13.553489300000024
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000098,
+            "name": "Falun",
+            "address": {
+                "streetAddress1": "Yxhammargatan 1",
+                "streetAddress2": "",
+                "zipCode": "79173",
+                "city": "Falun",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 60.60517840000001,
+                "longitude": 15.62258829999996
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000019,
+            "name": "Farsta",
+            "address": {
+                "streetAddress1": "Fryksdalsbacken 20",
+                "streetAddress2": "",
+                "zipCode": "12343",
+                "city": "Farsta",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.2375077310862,
+                "longitude": 18.11248791134341
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000033,
+            "name": "Filipstad ",
+            "address": {
+                "streetAddress1": "Schéelegatan 2",
+                "streetAddress2": "",
+                "zipCode": "682 33",
+                "city": "Filipstad",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.71460249999999,
+                "longitude": 14.174932600000032
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000330,
+            "name": "Finspång",
+            "address": {
+                "streetAddress1": "Vallonvägen 15",
+                "streetAddress2": "",
+                "zipCode": "612 30",
+                "city": "FINSPÅNG",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 58.70768897145513,
+                "longitude": 15.772681267175496
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000006,
+            "name": "Flen",
+            "address": {
+                "streetAddress1": "Taljavägen 2A",
+                "streetAddress2": "",
+                "zipCode": "64291",
+                "city": "Flen",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.07365489999999,
+                "longitude": 16.6150222
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000317,
+            "name": "Gislaved",
+            "address": {
+                "streetAddress1": "Södra Storgatan 7",
+                "streetAddress2": "mejl: berith.ollhage@telia.com",
+                "zipCode": "33221",
+                "city": "Gislaved",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.301405,
+                "longitude": 13.537285999999995
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000090,
+            "name": "Gällivare",
+            "address": {
+                "streetAddress1": "Lasarettsgatan 22",
+                "streetAddress2": "",
+                "zipCode": "98232",
+                "city": "Gällivare",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 67.1325442,
+                "longitude": 20.665946200000008
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000118,
+            "name": "Gävle",
+            "address": {
+                "streetAddress1": "REDARGATAN 18",
+                "streetAddress2": "",
+                "zipCode": "803 02",
+                "city": "Gävle",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 60.6824257,
+                "longitude": 17.165745700000002
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000325,
+            "name": "Göteborg Högsbo",
+            "address": {
+                "streetAddress1": "F O Petersonsgata 24",
+                "streetAddress2": "",
+                "zipCode": "421 31",
+                "city": "Västra Frölunda",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.6496191,
+                "longitude": 11.93631819999996
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000143,
+            "name": "Göteborg-Hisingen",
+            "address": {
+                "streetAddress1": "Hildedalsgatan 2",
+                "streetAddress2": "",
+                "zipCode": "41705",
+                "city": "Göteborg",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.73223909999999,
+                "longitude": 11.943338700000027
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000059,
+            "name": "Halmstad",
+            "address": {
+                "streetAddress1": "Andersbergsringen 104",
+                "streetAddress2": "",
+                "zipCode": "30255",
+                "city": "Halmstad",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 56.6578884,
+                "longitude": 12.897756299999967
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000114,
+            "name": "Hammarstrand",
+            "address": {
+                "streetAddress1": "Centralgatan 55",
+                "streetAddress2": "",
+                "zipCode": "84070",
+                "city": "Hammarstrand",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 63.1027645,
+                "longitude": 16.3585918
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000084,
+            "name": "Haparanda",
+            "address": {
+                "streetAddress1": "Norrmalmsvägen 2 B",
+                "streetAddress2": "",
+                "zipCode": "95334",
+                "city": "Haparanda",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 65.8395237,
+                "longitude": 24.126738199999977
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000101,
+            "name": "Hedemora",
+            "address": {
+                "streetAddress1": "Kraftgatan 8",
+                "streetAddress2": "",
+                "zipCode": "77623",
+                "city": "Hedemora",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 60.2891442,
+                "longitude": 15.983641600000055
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000123,
+            "name": "Helsingborg",
+            "address": {
+                "streetAddress1": "Rundgången 32",
+                "streetAddress2": "",
+                "zipCode": "25452",
+                "city": "Helsingborg",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 56.06397399999999,
+                "longitude": 12.708984900000019
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000331,
+            "name": "HK",
+            "address": {
+                "streetAddress1": "Röda Vägen",
+                "streetAddress2": " Borlänge",
+                "zipCode": "781 89",
+                "city": "BORLÄNGE",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 0,
+                "longitude": 0
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000056,
+            "name": "Hudiksvall",
+            "address": {
+                "streetAddress1": "Mickelsvägen 5",
+                "streetAddress2": "",
+                "zipCode": "824 34",
+                "city": "Hudiksvall",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 61.7409869,
+                "longitude": 17.08838549999996
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000057,
+            "name": "Härnösand",
+            "address": {
+                "streetAddress1": "Nattviksgatan 8",
+                "streetAddress2": "",
+                "zipCode": "87145",
+                "city": "Härnösand",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 62.633222,
+                "longitude": 17.92922729999998
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000045,
+            "name": "Hässleholm",
+            "address": {
+                "streetAddress1": "Björklundavägen 9",
+                "streetAddress2": "",
+                "zipCode": "28133",
+                "city": "HÄSSLEHOLM",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 56.1445781,
+                "longitude": 13.768245699999966
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000091,
+            "name": "Jokkmokk",
+            "address": {
+                "streetAddress1": "Lappstavägen 9",
+                "streetAddress2": "",
+                "zipCode": "96231",
+                "city": "Jokkmokk",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 66.6020753,
+                "longitude": 19.843495200000007
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000326,
+            "name": "Järfälla",
+            "address": {
+                "streetAddress1": "Datavägen 6",
+                "streetAddress2": "",
+                "zipCode": "175 43",
+                "city": "JÄRFÄLLA",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.41299919999999,
+                "longitude": 17.825059099999976
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000115,
+            "name": "Järpen",
+            "address": {
+                "streetAddress1": "Norra Vägen 21",
+                "streetAddress2": "",
+                "zipCode": "83005",
+                "city": "Järpen",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 63.34524079999999,
+                "longitude": 13.465644500000053
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000074,
+            "name": "Jönköping",
+            "address": {
+                "streetAddress1": "Bataljonsgatan 8",
+                "streetAddress2": "",
+                "zipCode": "55305",
+                "city": "Jönköping",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.77337799999999,
+                "longitude": 14.208755399999973
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000085,
+            "name": "Kalix",
+            "address": {
+                "streetAddress1": "Strandgatan 21",
+                "streetAddress2": "",
+                "zipCode": "95233",
+                "city": "Kalix",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 65.85565,
+                "longitude": 23.14326
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000093,
+            "name": "Kalmar",
+            "address": {
+                "streetAddress1": "Karlstorpsvägen 16",
+                "streetAddress2": "",
+                "zipCode": "392 39",
+                "city": "Kalmar",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 56.6737378,
+                "longitude": 16.328569000000016
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000048,
+            "name": "Karlshamn",
+            "address": {
+                "streetAddress1": "Hamngatan 5",
+                "streetAddress2": "",
+                "zipCode": "37435",
+                "city": "Karlshamn",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 56.1664226,
+                "longitude": 14.864175499999988
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000336,
+            "name": "Karlshamn (NY)",
+            "address": {
+                "streetAddress1": "Sölvesborgsvägen 37",
+                "streetAddress2": "",
+                "zipCode": "37432",
+                "city": "Karlshamn",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 56.185491585990064,
+                "longitude": 14.84887974168346
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000003,
+            "name": "Karlskoga",
+            "address": {
+                "streetAddress1": "Industrivägen 4",
+                "streetAddress2": "",
+                "zipCode": "69138",
+                "city": "Karlskoga",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.3293792,
+                "longitude": 14.547766899999942
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000047,
+            "name": "Karlskrona",
+            "address": {
+                "streetAddress1": "Blåportsgatan 7",
+                "streetAddress2": "",
+                "zipCode": "371 56",
+                "city": "Karlskrona",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 56.1753514,
+                "longitude": 15.597191199999996
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000031,
+            "name": "Karlstad",
+            "address": {
+                "streetAddress1": "Körkarlsvägen 5",
+                "streetAddress2": "",
+                "zipCode": "65346",
+                "city": "Karlstad",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.379325597242314,
+                "longitude": 13.43331796885133
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000007,
+            "name": "Katrineholm ",
+            "address": {
+                "streetAddress1": "Mejerigatan 11",
+                "streetAddress2": "",
+                "zipCode": "641 39",
+                "city": "Katrineholm",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 58.99401,
+                "longitude": 16.18809
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000068,
+            "name": "Kinna",
+            "address": {
+                "streetAddress1": "Backagårdsgatan 2",
+                "streetAddress2": "",
+                "zipCode": "51157",
+                "city": "Kinna",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.5128331,
+                "longitude": 12.708014000000048
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000092,
+            "name": "Kiruna",
+            "address": {
+                "streetAddress1": "Malmvägen 1B, 981 37 KIRUNA",
+                "streetAddress2": "",
+                "zipCode": "98137",
+                "city": "Kiruna",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 67.848301,
+                "longitude": 20.300537
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000010,
+            "name": "Kisa",
+            "address": {
+                "streetAddress1": "Enebygatan 10",
+                "streetAddress2": "",
+                "zipCode": "59038",
+                "city": "Kisa",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.9865673,
+                "longitude": 15.640242299999954
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000139,
+            "name": "Kramfors",
+            "address": {
+                "streetAddress1": "Parkgatan 14",
+                "streetAddress2": "",
+                "zipCode": "872 35",
+                "city": "Kramfors",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 62.9298735,
+                "longitude": 17.771059700000023
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000046,
+            "name": "Kristianstad",
+            "address": {
+                "streetAddress1": "Björkhemsvägen 13",
+                "streetAddress2": "",
+                "zipCode": "29154",
+                "city": "Kristianstad",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 56.0288723,
+                "longitude": 14.179839799999968
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000035,
+            "name": "Kristinehamn ",
+            "address": {
+                "streetAddress1": "Stationsgatan 4a",
+                "streetAddress2": "",
+                "zipCode": "68130",
+                "city": "Kristinehamn",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.31683702238186,
+                "longitude": 14.107006862295744
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000327,
+            "name": "Kumla",
+            "address": {
+                "streetAddress1": "Radiogatan 4",
+                "streetAddress2": "",
+                "zipCode": "692 71",
+                "city": "KUMLA",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.14064089999999,
+                "longitude": 15.131069199999956
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000321,
+            "name": "Kungsbacka",
+            "address": {
+                "streetAddress1": "Verkstadsgatan 7",
+                "streetAddress2": "",
+                "zipCode": "43442",
+                "city": "KUNGSBACKA",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.47976000000001,
+                "longitude": 12.084300299999995
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000145,
+            "name": "Kungälv",
+            "address": {
+                "streetAddress1": "Smedmästaregatan 3",
+                "streetAddress2": "",
+                "zipCode": "44234",
+                "city": "Kungälv",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.8781658,
+                "longitude": 11.984398000000056
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000040,
+            "name": "Köping",
+            "address": {
+                "streetAddress1": "Sjötullsvägen 3B",
+                "streetAddress2": "",
+                "zipCode": "73136",
+                "city": "Köping",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.50501533376462,
+                "longitude": 15.995183970899172
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000124,
+            "name": "Landskrona",
+            "address": {
+                "streetAddress1": "Föreningsgatan 217",
+                "streetAddress2": "",
+                "zipCode": "261 51",
+                "city": "Landskrona",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 55.8729301,
+                "longitude": 12.84923189999995
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000069,
+            "name": "Lidköping",
+            "address": {
+                "streetAddress1": "Sockerbruksgatan 1",
+                "streetAddress2": "",
+                "zipCode": "53140",
+                "city": "Lidköping",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 58.50497646817024,
+                "longitude": 13.165590907315824
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000004,
+            "name": "Lindesberg",
+            "address": {
+                "streetAddress1": "Nyborgsgatan 1 (Lindesberg Arena)",
+                "streetAddress2": "",
+                "zipCode": "71134",
+                "city": "Lindesberg",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.593219,
+                "longitude": 15.214654600000017
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000009,
+            "name": "Linköping",
+            "address": {
+                "streetAddress1": "Gelbgjutaregatan 2D",
+                "streetAddress2": "",
+                "zipCode": "58254",
+                "city": "Linköping",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 58.4061305,
+                "longitude": 15.6499986
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000028,
+            "name": "Ljungby",
+            "address": {
+                "streetAddress1": "Stationsgatan 2",
+                "streetAddress2": "",
+                "zipCode": "34160",
+                "city": "Ljungby",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 56.8323542,
+                "longitude": 13.933016800000019
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000055,
+            "name": "Ljusdal",
+            "address": {
+                "streetAddress1": "N:a Järnvägsgatan 41",
+                "streetAddress2": "",
+                "zipCode": "82703",
+                "city": "Ljusdal",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 61.82755169999999,
+                "longitude": 16.097206400000005
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000102,
+            "name": "Ludvika",
+            "address": {
+                "streetAddress1": "Tingshusgata 18",
+                "streetAddress2": "",
+                "zipCode": "77131",
+                "city": "Ludvika",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 60.1508498,
+                "longitude": 15.191043000000036
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000082,
+            "name": "Luleå",
+            "address": {
+                "streetAddress1": "Sundsbacken 4",
+                "streetAddress2": "",
+                "zipCode": "97242",
+                "city": "Luleå",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 65.5880126,
+                "longitude": 22.16522610000004
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000062,
+            "name": "Lund",
+            "address": {
+                "streetAddress1": "Företagsvägen 44",
+                "streetAddress2": "",
+                "zipCode": "227 61",
+                "city": "Lund",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 55.7161292,
+                "longitude": 13.15358709999998
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000022,
+            "name": "Lycksele",
+            "address": {
+                "streetAddress1": "Storgatan 28 1 tr",
+                "streetAddress2": "",
+                "zipCode": "92132",
+                "city": "Lycksele",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 64.59499690000001,
+                "longitude": 18.677269000000024
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000053,
+            "name": "Lysekil",
+            "address": {
+                "streetAddress1": "Valbogatan 5",
+                "streetAddress2": "",
+                "zipCode": "45335",
+                "city": "Lysekil",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 58.2771321,
+                "longitude": 11.443472100000008
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000061,
+            "name": "Malmö",
+            "address": {
+                "streetAddress1": "Cederströmsgatan 1B",
+                "streetAddress2": "",
+                "zipCode": "212 39",
+                "city": "Malmö",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 55.59744079999999,
+                "longitude": 13.061538700000028
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000103,
+            "name": "Malung",
+            "address": {
+                "streetAddress1": "Parkvägen 1",
+                "streetAddress2": "",
+                "zipCode": "78234",
+                "city": "Malung",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 60.68959779999999,
+                "longitude": 13.724185700000021
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000129,
+            "name": "Mariestad",
+            "address": {
+                "streetAddress1": "Nygatan 17",
+                "streetAddress2": "",
+                "zipCode": "54230",
+                "city": "Mariestad",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 58.7107353,
+                "longitude": 13.823735899999974
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000012,
+            "name": "Mjölby",
+            "address": {
+                "streetAddress1": "Lagmansgatan 26",
+                "streetAddress2": "",
+                "zipCode": "59551",
+                "city": "Mjölby",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 58.32187690000001,
+                "longitude": 15.134437400000024
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000104,
+            "name": "Mora",
+            "address": {
+                "streetAddress1": "Skepphusvägen 4",
+                "streetAddress2": "",
+                "zipCode": "79231",
+                "city": "Mora",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 61.004878,
+                "longitude": 14.537003000000029
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000011,
+            "name": "Motala",
+            "address": {
+                "streetAddress1": "Sjögatan 5",
+                "streetAddress2": "",
+                "zipCode": "59130",
+                "city": "Motala",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 58.5352354,
+                "longitude": 15.035623499999929
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000329,
+            "name": "Norrköping",
+            "address": {
+                "streetAddress1": "Sprängstensgatan 1",
+                "streetAddress2": "",
+                "zipCode": "603 79",
+                "city": "NORRKÖPING",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 58.57186850000001,
+                "longitude": 16.181573399999934
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000135,
+            "name": "Norrtälje 2",
+            "address": {
+                "streetAddress1": "Kaserngatan 1",
+                "streetAddress2": "",
+                "zipCode": "76145",
+                "city": "Norrtälje",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.75162719999999,
+                "longitude": 18.68276620000006
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000096,
+            "name": "Nybro",
+            "address": {
+                "streetAddress1": "Stora Nygatan 15",
+                "streetAddress2": "",
+                "zipCode": "38230",
+                "city": "Nybro",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 56.7430993,
+                "longitude": 15.91012150000006
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000149,
+            "name": "Nyköping",
+            "address": {
+                "streetAddress1": "Industrigatan 8",
+                "streetAddress2": "",
+                "zipCode": "61138",
+                "city": "Nyköping",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 58.75306020000001,
+                "longitude": 16.994760300000053
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000020,
+            "name": "Nynäshamn",
+            "address": {
+                "streetAddress1": "Centralgatan 42B",
+                "streetAddress2": "",
+                "zipCode": "14932",
+                "city": "Nynäshamn",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 58.908654,
+                "longitude": 17.94336210000006
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000076,
+            "name": "Nässjö",
+            "address": {
+                "streetAddress1": "Bäckgatan 4B",
+                "streetAddress2": "",
+                "zipCode": "57141",
+                "city": "Nässjö",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.65873149999999,
+                "longitude": 14.69972150000001
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000094,
+            "name": "Oskarshamn",
+            "address": {
+                "streetAddress1": "Södra Fabriksgatan 20",
+                "streetAddress2": "",
+                "zipCode": "57236",
+                "city": "Oskarshamn",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.2565714,
+                "longitude": 16.435195600000043
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000086,
+            "name": "Pajala",
+            "address": {
+                "streetAddress1": "Teknikvägen 1E",
+                "streetAddress2": "",
+                "zipCode": "98432",
+                "city": "Pajala",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 67.20756039999999,
+                "longitude": 23.368298500000037
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000087,
+            "name": "Piteå",
+            "address": {
+                "streetAddress1": "Olof Palmesgata 2",
+                "streetAddress2": "",
+                "zipCode": "94133",
+                "city": "Piteå",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 65.3203614,
+                "longitude": 21.48606970000003
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000049,
+            "name": "Ronneby",
+            "address": {
+                "streetAddress1": "Stadshuset Karlshamnsvägen 4",
+                "streetAddress2": "",
+                "zipCode": "37280",
+                "city": "Ronneby",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 56.2130741,
+                "longitude": 15.27260339999998
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000041,
+            "name": "Sala",
+            "address": {
+                "streetAddress1": "Fabriksgatan 2A",
+                "streetAddress2": "",
+                "zipCode": "73321",
+                "city": "Sala",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.91864094732699,
+                "longitude": 16.61732734419427
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000119,
+            "name": "Sandviken",
+            "address": {
+                "streetAddress1": "Sätragatan 21",
+                "streetAddress2": "",
+                "zipCode": "81180",
+                "city": "Sandviken",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 60.6075044,
+                "longitude": 16.770399099999963
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000044,
+            "name": "Simrishamn",
+            "address": {
+                "streetAddress1": "Fabriksgatan 10A ",
+                "streetAddress2": "",
+                "zipCode": "27236",
+                "city": "Simrishamn",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 55.549473,
+                "longitude": 14.344108
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000111,
+            "name": "Skellefteå",
+            "address": {
+                "streetAddress1": "Södra järnvägsgatan 49B",
+                "streetAddress2": "",
+                "zipCode": "93132",
+                "city": "Skellefteå",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 64.7528432,
+                "longitude": 20.95751759999996
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000130,
+            "name": "Skövde",
+            "address": {
+                "streetAddress1": "Ventilvägen 12",
+                "streetAddress2": "",
+                "zipCode": "54937",
+                "city": "Skövde",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 58.398608848003875,
+                "longitude": 13.873031709198004
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000107,
+            "name": "Sollefteå",
+            "address": {
+                "streetAddress1": "Järnvägsgatan 18",
+                "streetAddress2": "",
+                "zipCode": "88130",
+                "city": "Sollefteå",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 63.16816294985725,
+                "longitude": 17.262371436481303
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000134,
+            "name": "Sollentuna",
+            "address": {
+                "streetAddress1": "Djupdalsvägen 12",
+                "streetAddress2": "",
+                "zipCode": "19251",
+                "city": "Sollentuna",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.4447303,
+                "longitude": 17.94894099999999
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            }
+        ],
+        "location": {
+            "id": 1000140,
+            "name": "Stockholm City",
+            "address": {
+                "streetAddress1": "Västra Järnvägsgatan 7",
+                "streetAddress2": "",
+                "zipCode": "11164",
+                "city": "Stockholm",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.33144889999999,
+                "longitude": 18.053636200000028
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000054,
+            "name": "Strömstad",
+            "address": {
+                "streetAddress1": "Ringvägen 112",
+                "streetAddress2": "",
+                "zipCode": "45235",
+                "city": "Strömstad",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 58.9490176,
+                "longitude": 11.192425200000002
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000116,
+            "name": "Strömsund",
+            "address": {
+                "streetAddress1": "Ramselevägen 6",
+                "streetAddress2": "",
+                "zipCode": "83335",
+                "city": "Strömsund",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 63.8491588,
+                "longitude": 15.559248400000001
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000105,
+            "name": "Sundsvall",
+            "address": {
+                "streetAddress1": "Heffners Allé 51",
+                "streetAddress2": "",
+                "zipCode": "85633",
+                "city": "Sundsvall",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 62.394559076200096,
+                "longitude": 17.334302042127405
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000036,
+            "name": "Sunne ",
+            "address": {
+                "streetAddress1": "Järnvägsgatan 8 ",
+                "streetAddress2": "",
+                "zipCode": "68630",
+                "city": "Sunne",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.8339808,
+                "longitude": 13.147852400000032
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000117,
+            "name": "Sveg",
+            "address": {
+                "streetAddress1": "Ljusnegatan 1",
+                "streetAddress2": "",
+                "zipCode": "84232",
+                "city": "Sveg",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 62.0325904,
+                "longitude": 14.36576690000004
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000037,
+            "name": "Säffle",
+            "address": {
+                "streetAddress1": "Kyrkogatan 4",
+                "streetAddress2": "",
+                "zipCode": "66140",
+                "city": "SÄFFLE",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.1342085,
+                "longitude": 12.929632200000015
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000120,
+            "name": "Söderhamn",
+            "address": {
+                "streetAddress1": "Granvägen 1",
+                "streetAddress2": "",
+                "zipCode": "826 35",
+                "city": "Söderhamn",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 61.3063996,
+                "longitude": 17.046101300000032
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000132,
+            "name": "Södertälje",
+            "address": {
+                "streetAddress1": "Svalängsvägen 4",
+                "streetAddress2": "",
+                "zipCode": "15139",
+                "city": "Södertälje",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.17495280000001,
+                "longitude": 17.648595900000032
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000051,
+            "name": "Sölvesborg",
+            "address": {
+                "streetAddress1": "Södergatan 19",
+                "streetAddress2": "",
+                "zipCode": "29480",
+                "city": "Sölvesborg",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 56.0521973,
+                "longitude": 14.58285490000003
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000077,
+            "name": "Tranås",
+            "address": {
+                "streetAddress1": "Hamnparken 2",
+                "streetAddress2": "",
+                "zipCode": "57335",
+                "city": "Tranås",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 58.0359094,
+                "longitude": 14.975375299999996
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000063,
+            "name": "Trelleborg",
+            "address": {
+                "streetAddress1": "Algatan 43",
+                "streetAddress2": "",
+                "zipCode": "23142",
+                "city": "Trelleborg",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 55.37441519999999,
+                "longitude": 13.153332099999943
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000126,
+            "name": "Uddevalla",
+            "address": {
+                "streetAddress1": "Kurödsvägen 3B",
+                "streetAddress2": "",
+                "zipCode": "45155",
+                "city": "Uddevalla",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 58.3560093,
+                "longitude": 11.975207100000034
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000067,
+            "name": "Ulricehamn",
+            "address": {
+                "streetAddress1": "Tre rosors väg 4",
+                "streetAddress2": "",
+                "zipCode": "52386",
+                "city": "Ulricehamn",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.7961489,
+                "longitude": 13.423378599999978
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000021,
+            "name": "Umeå",
+            "address": {
+                "streetAddress1": "Storgatan 60",
+                "streetAddress2": "",
+                "zipCode": "90330",
+                "city": "Umeå",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 63.82266719999999,
+                "longitude": 20.27492319999999
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000071,
+            "name": "Uppsala",
+            "address": {
+                "streetAddress1": "Hållnäsgatan 8A",
+                "streetAddress2": "",
+                "zipCode": "75228",
+                "city": "Uppsala",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.88,
+                "longitude": 17.58802
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000322,
+            "name": "Varberg",
+            "address": {
+                "streetAddress1": "Härdgatan 23",
+                "streetAddress2": "",
+                "zipCode": "43232",
+                "city": "VARBERG",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.12085339999999,
+                "longitude": 12.28948409999998
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000078,
+            "name": "Vetlanda",
+            "address": {
+                "streetAddress1": "Fabriksgatan 1A",
+                "streetAddress2": "",
+                "zipCode": "57438",
+                "city": "Vetlanda",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.43188120000001,
+                "longitude": 15.073831100000008
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000027,
+            "name": "Vilhelmina",
+            "address": {
+                "streetAddress1": "Volgsjövägen 36",
+                "streetAddress2": "",
+                "zipCode": "912 32",
+                "city": "Vilhelmina",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 64.62498352451473,
+                "longitude": 16.65438736325153
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000015,
+            "name": "Vimmerby",
+            "address": {
+                "streetAddress1": "Lögstadsgatan 5",
+                "streetAddress2": "",
+                "zipCode": "59839",
+                "city": "Vimmerby",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.6608986,
+                "longitude": 15.86451379999994
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000023,
+            "name": "Vindeln",
+            "address": {
+                "streetAddress1": "Järnvägsallén 1",
+                "streetAddress2": "",
+                "zipCode": "922 32",
+                "city": "Vindeln",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 64.203135,
+                "longitude": 19.713652499999966
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000097,
+            "name": "Visby",
+            "address": {
+                "streetAddress1": "Broväg 10",
+                "streetAddress2": "",
+                "zipCode": "62140",
+                "city": "Visby",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.64497189999999,
+                "longitude": 18.313385799999992
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000127,
+            "name": "Vänersborg",
+            "address": {
+                "streetAddress1": "Stampgatan 14",
+                "streetAddress2": "",
+                "zipCode": "46273",
+                "city": "Vänersborg",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 58.338836,
+                "longitude": 12.250827200000003
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000318,
+            "name": "Värnamo",
+            "address": {
+                "streetAddress1": "Myntgtan 11 A",
+                "streetAddress2": "",
+                "zipCode": "33130",
+                "city": "Värnamo",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.1849148,
+                "longitude": 14.039591100000052
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000333,
+            "name": "Västerhaninge",
+            "address": {
+                "streetAddress1": "Industrivägen 5",
+                "streetAddress2": "",
+                "zipCode": "137 37",
+                "city": "VÄSTERHANINGE",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.11502,
+                "longitude": 18.07946
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000095,
+            "name": "Västervik",
+            "address": {
+                "streetAddress1": "Kristinebergsgatan 20",
+                "streetAddress2": "",
+                "zipCode": "59361",
+                "city": "Västervik",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 57.7625027,
+                "longitude": 16.613504799999987
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000038,
+            "name": "Västerås",
+            "address": {
+                "streetAddress1": "Gasverksgatan 7A",
+                "streetAddress2": "",
+                "zipCode": "72130",
+                "city": "Västerås",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.61027916941066,
+                "longitude": 16.56530432376029
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000030,
+            "name": "Växjö",
+            "address": {
+                "streetAddress1": "Honnörsgatan 26",
+                "streetAddress2": "",
+                "zipCode": "35236",
+                "city": "Växjö",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 56.87826769999999,
+                "longitude": 14.777765700000032
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000064,
+            "name": "Ystad",
+            "address": {
+                "streetAddress1": "Aktergatan 2",
+                "streetAddress2": "",
+                "zipCode": "271 55",
+                "city": "Ystad",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 55.430330932914785,
+                "longitude": 13.775566727890864
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000058,
+            "name": "Ånge",
+            "address": {
+                "streetAddress1": "Järnvägsgatan 3 A",
+                "streetAddress2": "",
+                "zipCode": "84133",
+                "city": "Ånge",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 62.5236629,
+                "longitude": 15.658153900000002
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000328,
+            "name": "Ånge",
+            "address": {
+                "streetAddress1": "Järnvägsgatan 3A",
+                "streetAddress2": "",
+                "zipCode": "841 33",
+                "city": "ÅNGE",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 62.5236629,
+                "longitude": 15.658153900000002
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000029,
+            "name": "Älmhult",
+            "address": {
+                "streetAddress1": "Oxtorgsgatan 2",
+                "streetAddress2": "",
+                "zipCode": "34332",
+                "city": "Älmhult",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 56.5482502,
+                "longitude": 14.13847480000004
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000088,
+            "name": "Älvsbyn",
+            "address": {
+                "streetAddress1": "Storgatan 25",
+                "streetAddress2": "",
+                "zipCode": "94231",
+                "city": "Älvsbyn",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 65.6739083,
+                "longitude": 21.007451700000047
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000122,
+            "name": "Ängelholm",
+            "address": {
+                "streetAddress1": "Brandsvigsgatan 6",
+                "streetAddress2": "",
+                "zipCode": "26273",
+                "city": "Ängelholm",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 56.2531872,
+                "longitude": 12.905027399999994
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000001,
+            "name": "Örebro",
+            "address": {
+                "streetAddress1": "Bettorpsgatan 10",
+                "streetAddress2": "",
+                "zipCode": "70369",
+                "city": "Örebro",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 59.300418,
+                "longitude": 15.230025000000069
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000106,
+            "name": "Örnsköldsvik",
+            "address": {
+                "streetAddress1": "Järvedsleden 4B",
+                "streetAddress2": "",
+                "zipCode": "89160",
+                "city": "Örnsköldsvik",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 63.2834534,
+                "longitude": 18.735887700000035
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000112,
+            "name": "Östersund",
+            "address": {
+                "streetAddress1": "Armègränd 3",
+                "streetAddress2": "",
+                "zipCode": "83132",
+                "city": "Östersund",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 63.1850854,
+                "longitude": 14.645265699999982
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000073,
+            "name": "Östhammar",
+            "address": {
+                "streetAddress1": "Drottninggatan 14",
+                "streetAddress2": "Kvarteret Färgaren AB ",
+                "zipCode": "742 31",
+                "city": "Östhammar",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 60.258037,
+                "longitude": 18.373687
+            }
+        }
+    },
+    {
+        "examinationCategories": [
+            {
+                "value": 1
+            },
+            {
+                "value": 2
+            }
+        ],
+        "location": {
+            "id": 1000089,
+            "name": "Övertorneå",
+            "address": {
+                "streetAddress1": "Bergsgatan 2",
+                "streetAddress2": "",
+                "zipCode": "95731",
+                "city": "Övertorneå",
+                "careOf": ""
+            },
+            "coordinates": {
+                "latitude": 66.3889676,
+                "longitude": 23.653102799999942
+            }
+        }
+    }
+]

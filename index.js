@@ -2,6 +2,7 @@ const axios = require('axios');
 const moment = require('moment');
 const TelegramBot = require('node-telegram-bot-api');
 const config = require('./config.json');
+const locations = require('./Locations.json');
 
 // Telegram bot token and chat ID
 const telegramBotToken = config.telegramBotToken;
@@ -27,7 +28,7 @@ const payload = {
   occasionBundleQuery: {
     startDate: '1970-01-01T00:00:00.000Z',
     searchedMonths: 0,
-    locationId: 1000019,
+    locationId: findLocationId(config.locationName),
     nearbyLocationIds: [],
     languageId: 0,
     vehicleTypeId: 4,
@@ -68,12 +69,26 @@ function makeRequest() {
     .post(url, payload)
     .then((response) => {
       const occasions = response.data.data.bundles.flatMap((bundle) => bundle.occasions);
-      console.log("Found ${occasions.length} occasions");
+      console.log(`Found ${occasions.length} occasions`);
       processOccasions(occasions);
     })
     .catch((error) => {
       console.error('Error in request:', error);
     });
+}
+
+function findLocationId(name) {
+  for (let i = 0; i < locations.length; i++) {
+    if (locations[i].location.name === name) {
+      return locations[i].location.id;
+    }
+  }
+  return null;
+}
+
+if (findLocationId(config.locationName) == null) {
+  console.error('Error: Location not found');
+  process.exit();
 }
 
 // Invoke the request initially
